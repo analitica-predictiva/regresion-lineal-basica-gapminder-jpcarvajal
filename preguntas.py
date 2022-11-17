@@ -145,4 +145,3 @@ def pregunta_04():
     rmse = np.sqrt(mean_squared_error(y_test, y_pred))
     print("Root Mean Squared Error: {:6.4f}".format(rmse))
 
-pregunta_04()
